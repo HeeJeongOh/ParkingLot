@@ -21,11 +21,41 @@
 - Firebase
 
 
-### 🚗 Contributor
-|이름|학과|Github|
-|---|---|---|
-|정동구|컴퓨터공학과|https://github.com/dsaf2007|
-|김경민|컴퓨터공학과|https://github.com/kmkim2051|
-|오희정|컴퓨터공학과|https://github.com/HeeJeongOh|
-|박소현|컴퓨터공학과|https://github.com/shpark5938|
-|이재원|컴퓨터공학과|https://github.com/220v-K|
+
+### 🚗 Contributors
+<table>
+  <tr height="155px">
+    <td align="center" width="150px">
+      <a href="https://github.com/ktasha45"><img src="https://avatars.githubusercontent.com/dsaf2007"/></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/NIckmin96"><img src="https://avatars.githubusercontent.com/kmkim2051"/></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/parkkyungjun"><img src="https://avatars.githubusercontent.com/HeeJeongOh"/></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/HeeJeongOh"><img src="https://avatars.githubusercontent.com/shpark5938"/></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/yhw991228"><img src="https://avatars.githubusercontent.com/220v-K"/></a>
+    </td>
+  </tr>
+  <tr height="80px">
+    <td align="center" width="150px">
+      <a href="https://github.com/dsaf2007">정동구</a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/kmkim2051">김경민</a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/HeeJeongOh">오희정</a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/shpark5938">박소현</a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/220v-K">이재원</a>
+    </td>
+  </tr>
+</table>
